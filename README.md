@@ -3,7 +3,7 @@ MCP Data Analysis Assistant: A Python tool using MCP to connect LLMs with Postgr
 Installation
 
 Clone the Repository:
-git clone https://github.com/your-username/mcp-data-analysis-assistant.git
+git clone https://github.com/bharatydv/MCP-Data-Analysis-Assistant/blob/main/mcp_data_assistant.py
 cd mcp-data-analysis-assistant
 
 
