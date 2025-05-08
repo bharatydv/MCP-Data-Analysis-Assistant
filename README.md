@@ -49,11 +49,6 @@ Query result: {
 }
 
 
-
-Dataset
-Sample dataset on Hugging Face: [Insert Hugging Face Dataset URL]
-License
-MIT License. See LICENSE.
 Acknowledgments
 
 MCP
